@@ -1,0 +1,54 @@
+#mymenu
+{
+	background-color:black;
+	color:white;
+text-align:right;
+margin-right:100px
+
+
+}
+#mymenu:hover
+{
+	
+	background:linear-gradient(to right,black,black,black);
+}
+body
+{
+	background-image:url('1.jpg');
+	
+}
+#mymenu ul li{
+	
+	display:inline-block;
+	padding:12px;
+    
+}
+#data
+{
+	margin-top:150px;
+}
+table{
+	color:white;
+	background-color:rgb(100,100,100);
+	box-shadow:20px 20px 20px black;
+}
+table:hover
+{
+	background:linear-gradient(to right,red,blue);	
+}
+.t1
+{
+	border-radius:30px
+	
+}
+.B{
+	width:80px;
+	height:40px;
+	background:linear-gradient(to right,red,blue);
+	color:white;
+}
+.B:hover
+{
+	background:linear-gradient(to right,black,red);
+	
+}
