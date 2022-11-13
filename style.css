@@ -19,7 +19,7 @@ body
 }
 #mymenu ul li{
 	
-	<!-- display:inline-block; -->
+	display:inline-block;
 	padding:12px;
     
 }
@@ -28,9 +28,11 @@ body
 	margin-top:150px;
 }
 table{
+	margin-left:300px;
 	color:white;
 	background-color:rgb(100,100,100);
 	box-shadow:20px 20px 20px black;
+	padding:12px;
 }
 table:hover
 {
