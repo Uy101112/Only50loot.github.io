@@ -14,12 +14,12 @@ margin-right:100px
 }
 body
 {
-	background-image:url('1.jpg');
+	background-image:url('loot.jpg');
 	
 }
 #mymenu ul li{
 	
-	display:inline-block;
+	<!-- display:inline-block; -->
 	padding:12px;
     
 }
